@@ -21,7 +21,7 @@
 
 ---
 
-### 💻 Tech
+### 💻 Tech & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="28" />
@@ -39,10 +39,17 @@
 
 ---
 
+### 🏆 Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="MhmmdRusli Trophies" />
+</p>
+
+---
+
 ### 👤 About Me
-- 🔭 I’m currently working on building my foundational programming skills.
-- 🎯 My next goal is to create a personal landing page from scratch.
-- ⚡ Fun fact: I love UI design as much as I like logic and coding!
+- I’m currently working on building my foundational programming skills.
+- My next goal is to create a personal landing page from scratch.
+- Fun fact: I love UI design as much as I like logic and coding!
 
 ---
 
