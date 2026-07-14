@@ -52,8 +52,7 @@
 - Fun fact: I love UI design as much as I like logic and coding!
 
 ---
-### Current Vibe
-🎧 Listening to lo-fi beats while debugging code.*
-☕ Powered by curiosity and a lot of patience.*
 
-
+### 🎵 Current Vibe
+> 🎧 *Listening to lo-fi beats while debugging code.*
+> ☕ *Powered by curiosity and a lot of patience.*
