@@ -11,7 +11,6 @@ Saya seorang pengembang dari Bogor, Indonesia.
 <a href="https://tiktok.com/@username_tiktok_mu" target="_blank">
   <img src="https://img.shields.io/badge/-%23000000?style=square&logo=tiktok&logoColor=white&padding=10" alt="TikTok" height="35" />
 </a>
----
 
 ### 🛠️ Teknologi & Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
