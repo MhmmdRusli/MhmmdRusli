@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="MhmmdRusli's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=onedark&hide_border=true" alt="MhmmdRusli's Top Langs" height="160" />
-</p>
-
----
-
 ### 🗂️ Projects
 - 🌐 **Website - WarungNasiBuYati** - *First Project*
 - 📦 **Dashboard - Stockify** - *In Progress* ---
