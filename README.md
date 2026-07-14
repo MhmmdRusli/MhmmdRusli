@@ -40,6 +40,12 @@
 ---
 
 ### 👤 About Me
--  I’m currently working on building my foundational programming skills.
--  My next goal is to create a personal landing page from scratch.
--  Fun fact: I love UI design as much as I like logic and coding!
+- 🔭 I’m currently working on building my foundational programming skills.
+- 🎯 My next goal is to create a personal landing page from scratch.
+- ⚡ Fun fact: I love UI design as much as I like logic and coding!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/badge/counter.svg?username=MhmmdRusli&color=blueviolet&style=flat-square" alt="MhmmdRusli Profile Views" />
+</p>
