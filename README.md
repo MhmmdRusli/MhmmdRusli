@@ -56,6 +56,4 @@
 🎧 Listening to lo-fi beats while debugging code.*
 ☕ Powered by curiosity and a lot of patience.*
 
-<p align="center">
-  <img src="https://komarev.com/badge/counter.svg?username=MhmmdRusli&color=blueviolet&style=flat-square" alt="MhmmdRusli Profile Views" />
-</p>
+
