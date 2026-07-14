@@ -56,5 +56,5 @@
 
 
 ### 🎵 Current Vibe
-> 🎧 *Listening to lo-fi beats while debugging code.*
+> 🎧 *Listening to lo-fi beats while debugging code.*<br>
 > ☕ *Powered by curiosity and a lot of patience.*
