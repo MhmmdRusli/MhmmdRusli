@@ -1,4 +1,14 @@
 # Hi, I'm Mhmmd Rusli 👋
+### 🚀 Tech Enthusiast & Learner
+*✨ Currently exploring the world of web development and design! ✨*
+
+<br />
+
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW83cXN3Z3NkcDJ6Ym9paXg0Y3FpeXQ0bnd4ZnA3MndpZTh4N3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding Animation" />
+</p>
+
+---
 
 ### 🌐 Social Media
 <p align="left">
@@ -6,12 +16,12 @@
   <a href="https://tiktok.com/@username_kamu" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" height="28" /></a>
   <a href="https://discord.gg/link_kamu" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="28" /></a>
   <a href="https://github.com/MhmmdRusli" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28" /></a>
-  <a href="mailto:mhmmdrusliii77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
+  <a href="mailto:email_kamu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="28" />
@@ -25,11 +35,4 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="28" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=dark&hide_border=true" alt="MhmmdRusli's GitHub Stats" />
 </p>
