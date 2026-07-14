@@ -5,9 +5,12 @@ Saya seorang pengembang dari Bogor, Indonesia.
 ---
 
 ### 🌐 Hubungi Saya:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_rsliilsr)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@_rsliilrs)
-
+<a href="https://instagram.com/_rsliilsr" target="_blank">
+  <img src="https://img.shields.io/badge/-%23E4405F?style=square&logo=instagram&logoColor=white&padding=10" alt="Instagram" height="35" />
+</a>
+<a href="https://tiktok.com/@username_tiktok_mu" target="_blank">
+  <img src="https://img.shields.io/badge/-%23000000?style=square&logo=tiktok&logoColor=white&padding=10" alt="TikTok" height="35" />
+</a>
 ---
 
 ### 🛠️ Teknologi & Tools:
