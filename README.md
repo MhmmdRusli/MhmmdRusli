@@ -12,10 +12,6 @@
 
 <br />
 
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW83cXN3Z3NkcDJ6Ym9paXg0Y3FpeXQ0bnd4ZnA3MndpZTh4N3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding Animation" />
-</p>
-
 ---
 
 ### 🌐 Social Media
