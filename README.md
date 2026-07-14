@@ -47,6 +47,11 @@
 
 ---
 
+### 🗂️ Featured Projects
+- 🌐 **Website - WarungNasiBuYati** - *First Project*
+- 📦 **Stockify - Dashboard** - *In Progress* 
+---
+
 ### 🎵 Current Vibe
 > 🎧 *Listening to lo-fi beats while debugging code.*
 > ☕ *Powered by curiosity and a lot of patience.*
