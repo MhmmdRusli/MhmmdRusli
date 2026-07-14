@@ -9,7 +9,6 @@
 
 ### 🚀 Tech Enthusiast & Learner
 *✨ Currently exploring the world of web development and design! ✨*
-
 <br />
 
 ---
