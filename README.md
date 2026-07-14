@@ -1,4 +1,12 @@
 # Hi, I'm Mhmmd Rusli 👋
+
+### 👤 About Me
+- 🔭 I’m currently working on building my foundational programming skills.
+- 🎯 My next goal is to create a personal landing page from scratch.
+- ⚡ Fun fact: I love UI design as much as I like logic and coding!
+
+---
+
 ### 🚀 Tech Enthusiast & Learner
 *✨ Currently exploring the world of web development and design! ✨*
 
@@ -36,13 +44,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="28" />
 </p>
-
----
-
-### 👤 About Me
-- 🔭 I’m currently working on building my foundational programming skills.
-- 🎯 My next goal is to create a personal landing page from scratch.
-- ⚡ Fun fact: I love UI design as much as I like logic and coding!
 
 ---
 
