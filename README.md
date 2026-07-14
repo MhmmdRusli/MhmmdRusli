@@ -39,17 +39,10 @@
 
 ---
 
-### 🏆 Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="MhmmdRusli Trophies" />
-</p>
-
----
-
 ### 👤 About Me
-- I’m currently working on building my foundational programming skills.
-- My next goal is to create a personal landing page from scratch.
-- Fun fact: I love UI design as much as I like logic and coding!
+- 🔭 I’m currently working on building my foundational programming skills.
+- 🎯 My next goal is to create a personal landing page from scratch.
+- ⚡ Fun fact: I love UI design as much as I like logic and coding!
 
 ---
 
