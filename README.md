@@ -1,4 +1,4 @@
-# Hi, I'm Mhmmd Rusli 👋
+# Hi, I'm Mhmmd Rslii 👋
 
 ### 👤 About Me
 - I’m currently working on building my foundational programming skills.
