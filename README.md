@@ -56,7 +56,7 @@
 
 ---
 
-### 💫 Fun Facts About Me:
+### 💫 Fun Facts:
 Isi kepala cuma mikirin makanan. Pagi nyari mie ayam gerobakan, siang lanjut bakso urat kuah merah, malemnya ditutup pake Gacoan level 8. Jangan diajak mikir berat dulu, otak lagi buffering.
 Gua aslinya kalem, minusnya cuma dikit-dikit laper. Tapi anehnya, porsi makan barbar kayak nasi padang lauk tunjang plus ayam bakar bumbu medok kuah    banjir pun, BB tetep segini-gini aja kagak mau naik.
 Camilan hariannya lumayan banyak. Pilihannya kalau gak seblak kuah medok, cilok bumbu kacang, ya sate sekalian. Yang penting kenyang dan keringetan.
