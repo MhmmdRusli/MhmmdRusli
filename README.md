@@ -56,15 +56,6 @@
 
 ---
 
-### 💫 Fun Facts:
-Isi kepala cuma mikirin makanan. Pagi nyari mie ayam gerobakan, siang lanjut bakso urat kuah merah, malemnya ditutup pake Gacoan level 8. Jangan diajak mikir berat dulu, otak lagi buffering.
-Gua aslinya kalem, minusnya cuma dikit-dikit laper. Tapi anehnya, porsi makan barbar kayak nasi padang lauk tunjang plus ayam bakar bumbu medok kuah    banjir pun, BB tetep segini-gini aja kagak mau naik.
-Camilan hariannya lumayan banyak. Pilihannya kalau gak seblak kuah medok, cilok bumbu kacang, ya sate sekalian. Yang penting kenyang dan keringetan.
-Niatnya pengen hidup tenang bebas masalah, tapi realitanya malah suka pesen Richeese level 5 bareng ayam geprek cabai 20 biar makin fokus pas lagi -
-depan monitor.
-Punya ritual khusus abis makan pedes. Wajib langsung diguyur pake es teh manis, thai tea, atau matcha biar lambung kembali santuy.
-
-
 ### 🎵 Current Vibe
 > 🎧 *Listening to lo-fi beats while debugging code.*<br>
 > ☕ *Powered by curiosity and a lot of patience.*
