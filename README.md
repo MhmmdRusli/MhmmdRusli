@@ -29,27 +29,27 @@
 
 ### 💻 Tech & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="25" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat-square&logo=xampp&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Laragon-%23192837.svg?style=flat-square&logo=laragon&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Antigravity-%234285F4.svg?style=flat-square&logo=google&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=flat-square&logo=capcut&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=E34F26" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=1572B6" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=bootstrap&logoColor=7952B3" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=61DAFB" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=nodedotjs&logoColor=339933" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=php&logoColor=777BB4" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=laravel&logoColor=FF2D20" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=mysql&logoColor=4479A1" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=xampp&logoColor=FB7A24" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=laragon&logoColor=192837" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=FF6C37" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F05033" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=google&logoColor=4285F4" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=figma&logoColor=F24E1E" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=canva&logoColor=00C4CC" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=capcut&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=adobe-illustrator&logoColor=FF9A00" height="30" />
 </p>
 
 ---
