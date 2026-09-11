@@ -1,5 +1,20 @@
 # Hi, I'm Mhmmd Rslii 
 
+---
+
+### 👤 About Me
+- I’m currently working on building my foundational programming skills.
+- My next goal is to create a personal landing page from scratch.
+- Fun fact: I love UI design as much as I like logic and coding
+
+
+---
+
+### 🚀 Tech Enthusiast & Learner
+*✨ Currently exploring the world of web development and design! ✨*
+<br />
+
+---
 
 ### 🌐 Social Media
 <p align="left">
