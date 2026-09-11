@@ -7,7 +7,6 @@
 - My next goal is to create a personal landing page from scratch.
 - Fun fact: I love UI design as much as I like logic and coding
 
-
 ---
 
 ### 🚀 Tech Enthusiast & Learner
@@ -21,6 +20,7 @@
   <a href="https://instagram.com/_rsliilsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="28" /></a>
   <a href="https://tiktok.com/@rsliilrs" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" height="28" /></a>
   <a href="https://www.linkedin.com/in/muhammad-rusli-0389b4404/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
+  <a href="https://discord.com/users/ID_DISCORD_KAMU" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="28" /></a>
   <a href="https://github.com/MhmmdRusli" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28" /></a>
   <a href="mailto:mhmmdrusliii77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
 </p>
@@ -62,5 +62,3 @@
 ### 🎵 Current Vibe
 > 🎧 *Listening to lo-fi beats while debugging code.*<br>
 > ☕ *Powered by curiosity and a lot of patience.*
-
-
