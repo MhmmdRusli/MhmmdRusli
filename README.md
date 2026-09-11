@@ -7,7 +7,6 @@
 - My next goal is to create a personal landing page from scratch.
 - Fun fact: I love UI design as much as I like logic and coding
 
-
 ---
 
 ### 🚀 Tech Enthusiast & Learner
@@ -41,6 +40,16 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="28" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
