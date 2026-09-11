@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Tech Enthusiast & Learner
-*✨ Exploring the world of web development, local servers, and design! ✨*
+*✨ Exploring the world of web development, local servers, APIs, and design! ✨*
 <br />
 
 ---
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Laragon-192837?style=flat&logo=laragon&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="28" />
