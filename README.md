@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hi,%20I'm%20Muhammad%20Rusli%20👋&fontSize=36&fontColor=fff&animation=fadeIn&desc=Web%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=62&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Exploring+web+development%2C+local+servers%2C+APIs+%26+design+%E2%9C%A8;Building+my+foundational+programming+skills+%F0%9F%8C%B1;Next+goal%3A+a+personal+landing+page+from+scratch+%F0%9F%9A%80" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=MhmmdRusli&color=6c5ce7&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -111,6 +108,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
-
-
-modifikasi maxx
