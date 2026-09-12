@@ -66,8 +66,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=radical&hide_border=true" width="38%" />
+  <img src="https://mhmmdrusli-mhmmdrslii.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://mhmmdrusli-mhmmdrslii.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=radical&hide_border=true" width="38%" />
 </p>
 
 <p align="left">
