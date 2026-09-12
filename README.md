@@ -1,99 +1,75 @@
-# Hi, I'm Mhmmd Rslii 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=false&vCenter=true&width=500&lines=Frontend+Developer+In+Training;UI+Design+Enthusiast;Building+Cool+Web+Apps" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mhmmd+Rslii+👋;Welcome+to+my+GitHub+universe!;Frontend+Dev+in+Progress+🚀;UI+Designer+&+Code+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
-### 👤 About Me
-- I’m currently working on building my foundational programming skills.
-- My next goal is to create a personal landing page from scratch.
-- Fun fact: I love UI design as much as I like logic and coding.
+### ⚡ Quick Bio
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b>🌱 What I'm doing:</b> Building foundational programming skills & crafting personal projects.<br>
+      <b>🎯 Next Goal:</b> Launching a custom landing page from scratch.<br>
+      <b>🎨 Fun Fact:</b> Balancing pixel-perfect UI design with clean logical code.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmmdRusli&theme=tokyonight&hide_border=true&background=1a1b26" alt="Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Tech Enthusiast & Learner
-*✨ Exploring the world of web development, local servers, APIs, and design! ✨*
-<br />
-
----
-
-### 🌐 Social Media
-<p align="left">
-  <a href="https://instagram.com/_rsliilsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="28" /></a>
-  <a href="https://tiktok.com/@rsliilrs" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" height="28" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-rusli-0389b4404/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
-  <a href="https://discord.com/users/rusel_7" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="28" /></a>
-  <a href="https://github.com/MhmmdRusli" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28" /></a>
-  <a href="mailto:mhmmdrusliii77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
-</p>
-
----
-
-### 💻 Tech & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Laragon-192837?style=flat&logo=laragon&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" height="28" />
-</p>
-
----
-
-### 📊 GitHub Stats & Metrics
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://instagram.com/_rsliilsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@rsliilrs" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-rusli-0389b4404/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/rusel_7" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:mhmmdrusliii77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,php,laravel,mysql,git,vscode,figma,canva,illustrator" />
+</p>
+
+---
+
+### 📈 GitHub Metrics & Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmmdRusli&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=tokyonight&no-frame=true&row=1&column=3" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhmmdRusli&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
-### 🟡 Pac-Man Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
-  <img alt="GitHub Contribution Pac-Man" src="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
-</picture>
+### 🟡 Pac-Man Contribution Arena
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man" src="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
-### 🗂️ My First Projects
-- 🌐 **Website - WarungNasiBuYati**
+### 🗂️ Featured Projects
+- 🌐 **Website WarungNasiBuYati** — *Web development project in progress*
 
 ---
-
-### 🎵 Current Vibe
-> 🎧 *Listening to lo-fi beats while debugging code.*<br>
-> ☕ *Powered by curiosity and a lot of patience.*
-
-<br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MhmmdRusli&color=38B2AC&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
+  <code>🎧 Lo-fi beats on repeat</code> • <code>☕ Fueled by curiosity</code>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MhmmdRusli&color=f7df1e&style=flat-square&label=Profile+Visitors" alt="Visitors" />
 </p>
