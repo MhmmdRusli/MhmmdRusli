@@ -65,21 +65,23 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://mhmmdrusli-mhmmdrslii.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://mhmmdrusli-mhmmdrslii.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=radical&hide_border=true" width="38%" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmmdRusli&theme=radical&hide_border=true" width="60%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmmdRusli&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 🏆 Trophy Room
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=radical&no-frame=true&row=1&column=6" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=radical&no-frame=true&row=1&column=3" width="100%" />
 </p>
 
 ---
