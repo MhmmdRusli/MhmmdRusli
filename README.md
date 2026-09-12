@@ -1,11 +1,15 @@
-# Hi, I'm Mhmmd Rslii 
+# Hi, I'm Mhmmd Rslii 👋
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=false&vCenter=true&width=500&lines=Frontend+Developer+In+Training;UI+Design+Enthusiast;Building+Cool+Web+Apps" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 👤 About Me
 - I’m currently working on building my foundational programming skills.
 - My next goal is to create a personal landing page from scratch.
-- Fun fact: I love UI design as much as I like logic and coding
+- Fun fact: I love UI design as much as I like logic and coding.
 
 ---
 
@@ -54,6 +58,22 @@
 
 ---
 
+### 📊 GitHub Stats & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MhmmdRusli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmmdRusli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmmdRusli&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=tokyonight&no-frame=true&row=1&column=3" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
 ### 🟡 Pac-Man Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph-dark.svg">
@@ -71,3 +91,9 @@
 ### 🎵 Current Vibe
 > 🎧 *Listening to lo-fi beats while debugging code.*<br>
 > ☕ *Powered by curiosity and a lot of patience.*
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MhmmdRusli&color=38B2AC&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
+</p>
