@@ -63,6 +63,16 @@
 
 ---
 
+### 🟡 Pac-Man Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
+  <img alt="GitHub Contribution Pac-Man" src="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 📊 GitHub Stats & Metrics
 
 <table align="center" border="0">
@@ -80,28 +90,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🏆 Trophy Room
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🟡 Pac-Man Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
-  <img alt="GitHub Contribution Pac-Man" src="https://raw.githubusercontent.com/MhmmdRusli/MhmmdRusli/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
