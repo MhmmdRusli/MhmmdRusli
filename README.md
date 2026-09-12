@@ -85,8 +85,8 @@
 
 ### 🏆 Trophy Room
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=radical&no-frame=true&row=1&column=6" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MhmmdRusli&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
