@@ -9,7 +9,7 @@
 
 ### 👤 About Me
 - 🌱 Currently working on building my foundational programming skills
-- 🎯 Next goal is to create a personal landing page from scratch
+- 🎯 Next goal is to create a personal landing page from scratch.
 - 🔧 Exploring the world of web development, local servers, APIs, and design
 - 🎨 Fun fact: I love UI design as much as I like logic and coding.
 
